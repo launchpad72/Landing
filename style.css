@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    width: auto;
+}
+.head{
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: darkorange;
+}
+.picture{
+    width: 75%;
+    height: auto;
+}
+.button{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: darkolivegreen;
+}
+.table{
+    font-size: 20px;
+}
+
